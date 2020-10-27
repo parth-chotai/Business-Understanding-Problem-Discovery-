@@ -1,1 +1,1 @@
-In this phase, you develop a concrete business problem and decide which machine learning solution might be a good fit for the problem. Is it a supervised learning problem, then are you doing classification or regression? Once you've sorted out all of these questions and you have the answers that are high level, you're ready to get your hands dirty by entering the data acquisition and understanding phase or DAU. 
+Business Understanding & Problem Discovery
